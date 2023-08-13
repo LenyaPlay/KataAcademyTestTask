@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2404e45a-58ed-4363-9a73-0d1cc2f8a722" name="Changes" comment="finish">
+    <list default="true" id="2404e45a-58ed-4363-9a73-0d1cc2f8a722" name="Changes" comment="roman can't be less than 1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/lenyaplay/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/lenyaplay/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,6 +27,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "LenyaPlay"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="e49d0b0d-7bc7-42f6-ad62-16ae2a4f3920" />
+        <option name="url" value="https://github.com/LenyaPlay/KataAcademyTestTask.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
@@ -63,7 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1691933869308</updated>
       <workItem from="1691933870175" duration="2396000" />
-      <workItem from="1691936298112" duration="4837000" />
+      <workItem from="1691936298112" duration="5414000" />
     </task>
     <task id="LOCAL-00001" summary="finish">
       <option name="closed" value="true" />
@@ -73,7 +88,15 @@
       <option name="project" value="LOCAL" />
       <updated>1691955287862</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="roman can't be less than 1">
+      <option name="closed" value="true" />
+      <created>1691955611129</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1691955611129</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,7 +115,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="finish" />
-    <option name="LAST_COMMIT_MESSAGE" value="finish" />
+    <MESSAGE value="roman can't be less than 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="roman can't be less than 1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

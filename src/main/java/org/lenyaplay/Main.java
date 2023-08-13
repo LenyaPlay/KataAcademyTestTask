@@ -8,7 +8,6 @@ public class Main {
     }
 
     public static String calc(String input){
-
         char[] operators = {'+','-','/','*',};
 
         int operatorIndex = -1;
@@ -121,7 +120,7 @@ public class Main {
                     second -= prevDigit * 2;
 
             } else
-                throw new RuntimeException("Incorrect input");
+                throw new RuntimeException("Incorrect input, number should be number and roman number");
 
             prevDigit = digit;
         }
@@ -145,7 +144,7 @@ public class Main {
             if(number.charAt(i) >= '0' && number.charAt(i) <= '9'){
                 res = (res * 10) + number.charAt(i) - '0';
             } else
-                throw new RuntimeException("Incorrect input");
+                throw new RuntimeException("Incorrect input, number should be number and arabic number");
         }
         return res;
     }
