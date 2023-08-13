@@ -76,7 +76,7 @@ public class Main {
             throw new RuntimeException("Incorrect input, need operator for binary operation");
 
 
-        if(res < 0 && !isArab)
+        if(res < 1 && !isArab)
             throw new RuntimeException("Incorrect result, roman number less than zero");
 
         if(!isArab)
